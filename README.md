@@ -20,9 +20,9 @@ Here're some of the project's best features:
 pip install -r requirements.txt
 ```
 
-<p>2. Need to have Ollama installed with Llama2 model.</p>
+<p>2. Need to have Ollama installed with gemma:2b model.</p>
 
-<p>3. If not replace the usage of Llama2 with any other LLM model accordingly.</p>
+<p>3. If not replace the usage of gemma:2b with any other LLM model accordingly.</p>
 <p>4. Update the huggingface access token.<p>
 
   
