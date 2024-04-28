@@ -1,6 +1,6 @@
 <h1 align="center" id="title">AI Knowledge Forge</h1>
 
-<p id="description">Gen AI powered software tool to empower researchers and authors to transform existing knowledge into original and creative content. This project demonstrates a Retrieval-Augmented Generation (RAG) system powered by a Large Language Model (LLM). It utilizes an LLM to answer questions in a comprehensive way, but first leverages RAG to retrieve relevant information from loaded documents. The retrieved documents provide context for the LLM, allowing it to generate informative and accurate answers to user queries.</p>
+<p id="description">Gen AI powered software tool to empower researchers and authors to transform existing knowledge into original and creative content.</p>
 
   
   
@@ -19,6 +19,10 @@ Here're some of the project's best features:
 ```
 pip install -r requirements.txt
 ```
+
+<p>2. Need to have Ollama installed with Llama2 model.</p>
+
+<p>3. If not replace the usage of Llama2 with any other LLM model accordingly.</p>
 
   
   
