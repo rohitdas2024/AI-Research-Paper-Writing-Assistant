@@ -23,6 +23,7 @@ pip install -r requirements.txt
 <p>2. Need to have Ollama installed with Llama2 model.</p>
 
 <p>3. If not replace the usage of Llama2 with any other LLM model accordingly.</p>
+<p>4. Update the huggingface access token.<p>
 
   
   
