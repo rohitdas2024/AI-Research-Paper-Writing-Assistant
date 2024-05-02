@@ -1,4 +1,4 @@
-<h1 align="left" id="title">AI Knowledge Forge</h1>
+<h1 align="left" id="title">AI Research Paper Writing Assistant</h1>
 
 <p id="description">Gen AI powered software tool to empower researchers and authors to transform existing knowledge into original and creative content.</p>
 
